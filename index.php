@@ -1,7 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
 header('Connection: Keep-Alive');
-define('mariosir',true);
 ?>
 <html>
 <head>
